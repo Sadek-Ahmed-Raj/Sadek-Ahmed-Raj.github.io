@@ -191,8 +191,8 @@ Qualified for the **final round** of the Take-Off Programming Contest after earn
 # 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadek-Ahmed-Raj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Ahmed-Raj&layout=compact&hide_border=true&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadek-Ahmed-Raj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=FFFFFF&text_color=C9D1D9&icon_color=00D26A" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Ahmed-Raj&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=FFFFFF&text_color=C9D1D9" height="170" />
 </p>
 
 ---
@@ -200,7 +200,7 @@ Qualified for the **final round** of the Take-Off Programming Contest after earn
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sadek-Ahmed-Raj&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Sadek-Ahmed-Raj&background=000000&border=000000&stroke=222222&ring=00D26A&fire=00D26A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -208,7 +208,7 @@ Qualified for the **final round** of the Take-Off Programming Contest after earn
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadek-Ahmed-Raj&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadek-Ahmed-Raj&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
 </p>
 
 ---
@@ -216,7 +216,7 @@ Qualified for the **final round** of the Take-Off Programming Contest after earn
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadek-Ahmed-Raj&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadek-Ahmed-Raj&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=00D26A&point=FFFFFF" width="95%" />
 </p>
 
 ---
